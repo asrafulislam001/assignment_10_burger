@@ -1,0 +1,9 @@
+Font:
+font-family: 'Montserrat', sans-serif;
+font-family: 'Bebas Neue', sans-serif;
+font-family: 'Alfa Slab One', cursive;
+
+color:
+light gray: #33d2514
+yellow: #ffc045
+red: #bf2222
